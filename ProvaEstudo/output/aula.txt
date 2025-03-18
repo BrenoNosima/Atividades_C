@@ -1,0 +1,15 @@
+
+NOME: Maria
+NOTA[1]: 2,800000
+NOTA[2]: 4,800000
+NOTA[3]: 8,000000
+MEDIA: 5,20
+Situação: REPROVADO!!!
+============================
+NOME: Breno
+NOTA[1]: 4,800000
+NOTA[2]: 7,500000
+NOTA[3]: 8,300000
+MEDIA: 6,87
+Situação: REPROVADO!!!
+============================
